@@ -1,0 +1,5 @@
+1. Claim a global variable byte fpPower[6] to record the power
+2. Increase the length of buffer from 125 to 130
+3. Enable long frame
+4. In the receive state, read the fppower using API, translate it into power level
+5. In the send state, add a new function embedFpPower

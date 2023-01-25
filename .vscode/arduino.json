@@ -1,0 +1,6 @@
+{
+    "configuration": "usbstack=arduino,debug=off",
+    "board": "adafruit:samd:adafruit_feather_m0",
+    "sketch": "Superfast_imu_uwb_board.ino",
+    "port": "COM24"
+}
